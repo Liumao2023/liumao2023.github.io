@@ -90,7 +90,7 @@ Zhong Liumao. (in preparation). What does relativization contribute to the CQ-re
 
 # Review
 
-SYNC 2023; SinFonIJA 2023; FASAL 2024
+SYNC 2023; SYNC 2024; SinFonIJA 2023; FASAL 2024
 
 # Peer-reviewed Conference Presentations
 
@@ -136,7 +136,159 @@ Instructor (2016-2019)
 
 Department of English, Sichuan University of Science and Engineering
 
+# TEACHING
 
+## Instructor (Stony Brook University)
+
+2024 Summer LIN200 Languages in the USA
+
+2023 Winter	LIN200 Languages in the USA (Co-taught with Rachel Christensen & Pardis 				Derakhshandeh)
+
+2020 Summer	LIN542 Sociolinguistics (Co-taught with Chikako Takahashi)
+
+2019 Fall		WAE 194	Advanced Writing in Academic English
+
+## Instructor (Sichuan University of Science and Engineering)
+
+2019 Spring	Chinese Culture
+
+English-speaking Countries
+
+History of English
+
+2018 Fall		Chinese Culture
+
+English-speaking Countries
+
+History of English
+
+2018 Spring	Chinese Culture
+
+English Writing
+
+English-speaking Countries
+
+2017 Fall		English Writing
+
+Chinese Culture
+
+2017 Spring	Senior English 
+
+English Writing
+
+International Trade
+
+2016 Fall		Introduction to Linguistics
+
+Senior English
+
+English Writing
+
+## Instructor (Hangzhou College of Commerce)
+
+2016 Spring	Reading Comprehension
+
+Writing
+
+College English
+
+2015 Fall		Reading Comprehension
+
+Writing
+
+College English
+
+2015 Spring	Reading Comprehension
+
+Writing
+
+2014 Fall		Reading Comprehension
+
+Writing
+
+## Teaching Assistant (Stony Brook)
+
+2024 Fall		LIN200	Languages in the United States (Instructor: John Bailyn)
+
+2024 Spring	LIN345	Writing Systems of the World (Instructor: Robert Hoberman)
+
+2023 Fall		LIN200	Languages in the United States (Instructor: Lori Repetti)
+
+2023 Spring 	LIN 101	Human Languages (Instructor: John Bailyn)
+
+2022 Fall		LIN 200	Languages in the United States (Instructor: John Bailyn)
+
+2022 Spring	LIN 200	Languages in the United States (Instructor: John Bailyn)
+
+2021 Fall 	LIN 200	Languages in the United States (Instructor: Andrei Antonenko)
+
+2021 Spring	LIN	345	Writing Systems of the World (Instructor: Robert Hoberman)
+
+2020 Fall		LIN 230 	Languages of the World (Instructor: Francesco Ordonez)
+
+2020 Spring	LIN 300 	English Grammar (Instructor: Lori Repetti)
+
+## Teaching Assistant (NYI)
+
+2023 Winter		Introduction to Formal Semantics (Instructor: Paloma Jeretič)
+
+2023 Summer		An even number of odd puzzles in Ellipsis (Instructor: Ur Shlonsky & 					Adam Szczegielniak)
+
+Introduction to Formal Semantics (Instructor: Petr Kusliy & Ekaterina 	Vostrikova)
+
+2022 Winter		Puzzles in Semantics II (Instructor: Zahra Mirrazi & Christopher Potts)
+
+Puzzles in Semanrics I (Instructore: Rajesh Bhatt & Masha Esipova)
+
+2022 Summer		Conditionals and Tense (Instructor: Zahra Mirrazi & Heidde Zeijlstra)
+
+Topics in Chinese Syntax (Instructor: Hongchen Wu)
+
+## Student Advising (Undergraduate Thesis)
+
+Liu Jing. “An Analysis of College Students' Vocabulary Acquisition Through Vocabulary Memorization Software”. 2018.
+
+Liu Kunqi. “Comparative Study on the Metaphor of ‘Green’ in English and Chinese”. 2018.
+
+Wu Hanwei. “A Sociolinguistic Study of Word-Formation Ways of Netspeak Language”. 2018.
+
+Zhao Peng. “The Research on the Variation of Network Language Learning”. 2018
+
+# Academic Services
+
+Mentor of the Debate team (2016-2017)
+
+Mentor of the National English Contest team (2016-2017)
+
+Mentor of Class 201603
+
+Organizer of the Skill hours (2021 Spring)
+
+Vice President of the graduate linguistics society (2021 Fall to 2022 Fall)
+
+# Membership
+
+Member of the International Association of Chinese Linguistics
+
+Member of the Association of Chinese Linguistics (2017)
+
+Member of Chinese Pragmatics Association
+
+# Language 
+
+Mandarin Chinese (native); English (fluent); French(reading)
+
+# Programming Skills
+
+Python; R; SPSS; Latex; C4D; Dream weaver
+
+# References
+
+Professor Richard Larson 		richard.larson@stonybrook.edu
+
+Professor John Bailyn 			john.bailyn@stonybrook.edu
+
+Professor Lori Repetti			lori.repetti@stonybrook.edu
 
 
 
