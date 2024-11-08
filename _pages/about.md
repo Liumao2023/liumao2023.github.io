@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Ph.D. candidate of Linguistics at Stony Brook University. My research interests include Syntax, Semantics and Chinese Linguistics. I am advised by Professor Richard Larson. Before coming to Stony Brook, I received my BA from Southwest University of Science and Technology, China, where I was advised by Professor Congmei Chen, and I received my MA from Nanjing University where I study Pragmatics under the supervision of Professor Xinren Chen. You can find my current CV here.
+I am a Ph.D. candidate in the Department of Linguistics at Stony Brook University. My research interests include Syntax, Semantics and Chinese Linguistics. I am currently working on my dissertation, titled Derived (Dis-)possessive Predicates in Mandarin Chinese, advised by Professor Richard Larson. In this work, I investigate how a predicate becomes (dis-)possessive when a possessor externalizes. I offer syntactic and semantic evidence to argue that the possessive head has moved into the verbal domain, following the proposals by Freeze (1992) and Kayne (1993, 1994). Before coming to Stony Brook, I received my BA from Southwest University of Science and Technology, China, where I was advised by Professor Congmei Chen, and I received my MA from Nanjing University where I study Pragmatics under the supervision of Professor Xinren Chen. You can find my current CV here.
 
 In my non-academic life, I love playing soccer and badminton. I play soccer for over 20 years and you can find me play soccer in Sinatra Park Field, Resilliancy Park Field, and Sofive. I also love travelling and watching talent shows.
 
