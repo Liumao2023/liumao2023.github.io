@@ -32,11 +32,15 @@ One of the most important advancement in predicative possession, namely _HAVE_, 
 
 (1) John be=POSS a \[father POSS John\].
 
-While existing literature has forcefully shown the feasibility of possessive incorporation into the existential verb _BE_, my research seeks to extend the incorporation to a wider range of verbs.
+While existing literature has forcefully shown the feasibility and necessity of possessive incorporation into the existential verb _BE_, my research seeks to extend the incorporation to a wider range of verbs.
 
-The empirical data that I work with is external possession constructions in Mandarin Chinese. While English speakers must say _John’s father died_, Mandarin speakers can also say a structure parallel to _John died father_. As the subject _John_ maintains a possessive dependency with the lower object _father_, _John_ is said to possess father externally. 
+The empirical data that I work with is external possession constructions in Mandarin Chinese. While English speakers must say _John’s father died_, Mandarin speakers can also say a structure parallel to _John died father_. I try to answer the following questions:
 
+* Why does the possessor externalize?
+* How can a predicate take one more argument?
+* How are two cases assigned by an unaccusative?
 
+I approach these questions from the perspective that possessor externalization renders the predicate (dis-)possessive. I show syntactic and semantic properties to show that there is a hidden possessive head in the verbal domain, such that external possession constructions are underlyingly (dis-)possessive constructions. Consequently, the decompositinal approach to predicative possession also applies to Mandarin external possessions.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
