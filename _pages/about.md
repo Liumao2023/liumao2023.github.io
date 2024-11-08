@@ -26,6 +26,18 @@ My research interests include Syntax, Semantics and Chinese Linguistics. I am cu
 
 In my non-academic life, I love playing soccer and badminton. I play soccer for over 20 years and you can find me play soccer in Sinatra Park Field, Resilliancy Park Field, and Sofive. I also love travelling and watching talent shows.
 
+#**Research**
+
+One of the most important advancement in predicative possession, namely _HAVE_, is the proposal that _HAVE_ is the spellout of the incorporation of a possessive head into the existential verb _BE_ (Freeze 1992, Kayne 1993/1994).
+
+(1) John be=POSS a \[father POSS John\].
+
+While existing literature focuses solely on possessive incorporation into the existential verb _BE_, my research seeks to extend the incorporation to a wider range of verbs.
+
+The empirical data that I work with is external possession constructions in Mandarin Chinese. While English speakers must say _John’s father died_, Mandarin speakers can also say a structure parallel to _John died father_. As the subject _John_ maintains a possessive dependency with the lower object _father_, _John_ is said to possess father externally. 
+
+
+
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
