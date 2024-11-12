@@ -13,10 +13,11 @@ Wangmian sentences are sentences like (1) in Mandarin Chinese.
 (1)
 
 <table>
-  <tr><td>我</td><td>喜欢</td><td>学习</td><td>语言</td></tr>
-  <tr><td>1SG</td><td>like</td><td>study</td><td>language</td></tr>
-  <tr><td colspan="4">"I like studying languages."</td></tr>
+  <tr><td>王冕</td><td>死</td><td>了</td><td>儿子</td></tr>
+  <tr><td>Wangmian</td><td>die</td><td>PRF</td><td>son</td></tr>
+  <tr><td colspan="4">"Wangmian lost a son through death."</td></tr>
 </table>
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
