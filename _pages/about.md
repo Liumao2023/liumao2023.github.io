@@ -44,7 +44,7 @@ Zhong Liumao. (under review). External possession of body-part expressions in Ma
 
 Zhong Liumao. (under review). Complex event structure of Wangmian sentenes.
 
-Zhong Liumao & Hong Y. 2017. The Cultural Interpretation of the Ideographic Networks of “Wine”. Journal of Sichuan University of Science and Engineering, 32(1), 40-49.
+Zhong Liumao & Hong Y. 2017. The Cultural Interpretation of the Ideographic Networks of “Wine”. Journal of Sichuan University of Science and Engineering, 32(1), 40-49. [link](http://xb.suse.edu.cn/upload/20170307/201703070356108807.pdf)
 
 Zhong Liumao. 2012. Reconsidering Presupposition Cancellation. Jiangsu Foreign Language Research and Teaching, 1-5.
 
