@@ -18,7 +18,7 @@ Before coming to Stony Brook, I received my BA from Southwest University of Scie
 
 My research interests include Syntax, Semantics and Chinese Linguistics. I am currently working on my dissertation, titled Derived (Dis-)possessive Predicates in Mandarin Chinese, advised by Professor [Richard Larson](https://linguistics.stonybrook.edu/faculty/richard.larson/index.php). In this work, I investigate how a predicate becomes (dis-)possessive when a possessor externalizes. I offer syntactic and semantic evidence to argue that the possessive head has moved into the verbal domain, extending the proposals by Freeze (1992) and Kayne (1993, 1994). 
 
-In my non-academic life, I love playing soccer and badminton. I play soccer for over 20 years and you can find me play soccer in Sinatra Park Field, Resilliancy Park Field, and Sofive. I also love travelling and watching talent shows.
+In my non-academic life, I love playing soccer and badminton. I play soccer for over 20 years and you can find me play soccer in Sinatra Park Field, Resilliancy Park Field, and [Sofive](https://www.sofive.com/locations/meadowlands). I also love travelling and watching talent shows.
 
 # **Research**
 
