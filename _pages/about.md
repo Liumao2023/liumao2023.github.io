@@ -36,6 +36,14 @@ The empirical data that I work with is external possession constructions in Mand
 
 I approach these questions from the perspective that possessor externalization renders the predicate (dis-)possessive. I present syntactic and semantic properties to show that there is a hidden possessive head in the verbal domain, such that external possession constructions are underlyingly (dis-)possessive constructions. Consequently, the decompositinal approach to predicative possession also applies to Mandarin external possessions.
 
+# On-going Works
+
+\[Crosslinguistic variation in External Possession\] In some languages, external possession is accompanied with the appearance of clitics. In some languages, like Chocktaw, Salish, and Ulwa, the emerging clitics seems to be related to the possessive head in one way or the other. The study of these clitics has implications on the nature of external possession as well as far-reaching consequence in construction derivation in general.
+
+\[Phase heads in Mandarin\] Mandarin Chinese presents an interesting switch between allowing and dis-allowing cross-phase head movement. I present evidence to link this switch to a well-received assumption that cross-phase head movement is typically unfavored, and examine the possibility that these switches are phase heads in Mandarin.
+
+
+
 # Publications
 
 Zhong Liumao. (under review). Raising and Selection: a Double Theme Structure in Mandarin Chinese. 
