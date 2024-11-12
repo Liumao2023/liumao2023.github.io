@@ -56,9 +56,9 @@ Zhong Liumao. (accepted). Possessum incorporation in Mandarin Chinese. Coyote Pa
 
 Zhong Liumao. (accepted). Revisiting topic possessors in Mandarin Chinese. Proceedings of LCUGA6.
 
-Zhong, Liumao. (2024). External possession construction with color terms in Mandarin Chinese. University of Pennsylvania Working Papers in Linguistics, 185-194.
+Zhong, Liumao. (2024). External possession construction with color terms in Mandarin Chinese. University of Pennsylvania Working Papers in Linguistics, 185-194. [link](https://repository.upenn.edu/entities/publication/8908b34c-b15a-4f9b-bb72-d6d2fdba438b)
 
-Zhong Liumao. (2024). Possessum bias in Mandarin Chinese. LSO Working Papers in Linguistics (12), 1-13.
+Zhong Liumao. (2024). Possessum bias in Mandarin Chinese. LSO Working Papers in Linguistics (12), 1-13. [link](https://langsci.wisc.edu/wp-content/uploads/sites/1012/2024/10/Zhong_WiGL.pdf)
 
 # Book Chapters
 
