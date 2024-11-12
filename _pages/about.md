@@ -34,7 +34,7 @@ The empirical data that I work with is external possession constructions in Mand
 * How can a predicate take one more argument?
 * How are two cases assigned by an unaccusative?
 
-I approach these questions from the perspective that possessor externalization renders the predicate (dis-)possessive. I show syntactic and semantic properties to show that there is a hidden possessive head in the verbal domain, such that external possession constructions are underlyingly (dis-)possessive constructions. Consequently, the decompositinal approach to predicative possession also applies to Mandarin external possessions.
+I approach these questions from the perspective that possessor externalization renders the predicate (dis-)possessive. I present syntactic and semantic properties to show that there is a hidden possessive head in the verbal domain, such that external possession constructions are underlyingly (dis-)possessive constructions. Consequently, the decompositinal approach to predicative possession also applies to Mandarin external possessions.
 
 # Publications
 
