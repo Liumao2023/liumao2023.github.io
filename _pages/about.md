@@ -287,8 +287,8 @@ Python; R; SPSS; Latex; C4D; Dream weaver
 
 # References
 
-Professor Richard Larson 		richard.larson@stonybrook.edu
+Professor Richard Larson
 
-Professor John Bailyn 			john.bailyn@stonybrook.edu
+Professor John Bailyn 	
 
-Professor Lori Repetti			lori.repetti@stonybrook.edu
+Professor Lori Repetti	
