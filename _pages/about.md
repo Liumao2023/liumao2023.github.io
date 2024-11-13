@@ -153,35 +153,47 @@ Department of English, Sichuan University of Science and Engineering
 
 ## Instructor (Sichuan University of Science and Engineering)
 
-2019 Spring	Chinese Culture
+2019 Spring	
+
+Chinese Culture
 
 English-speaking Countries
 
 History of English
 
-2018 Fall		Chinese Culture
+2018 Fall		
+
+Chinese Culture
 
 English-speaking Countries
 
 History of English
 
-2018 Spring	Chinese Culture
+2018 Spring	
+
+Chinese Culture
 
 English Writing
 
 English-speaking Countries
 
-2017 Fall		English Writing
+2017 Fall		
+
+English Writing
 
 Chinese Culture
 
-2017 Spring	Senior English 
+2017 Spring	
+
+Senior English 
 
 English Writing
 
 International Trade
 
-2016 Fall		Introduction to Linguistics
+2016 Fall		
+
+Introduction to Linguistics
 
 Senior English
 
@@ -189,61 +201,97 @@ English Writing
 
 ## Instructor (Hangzhou College of Commerce)
 
-2016 Spring	Reading Comprehension
+2016 Spring	
+
+Reading Comprehension
 
 Writing
 
 College English
 
-2015 Fall		Reading Comprehension
+2015 Fall		
+
+Reading Comprehension
 
 Writing
 
 College English
 
-2015 Spring	Reading Comprehension
+2015 Spring	
+
+Reading Comprehension
 
 Writing
 
-2014 Fall		Reading Comprehension
+2014 Fall		
+
+Reading Comprehension
 
 Writing
 
 ## Teaching Assistant (Stony Brook)
 
-2024 Fall		LIN200	Languages in the United States (Instructor: John Bailyn)
+2024 Fall		
 
-2024 Spring	LIN345	Writing Systems of the World (Instructor: Robert Hoberman)
+LIN200	Languages in the United States (Instructor: John Bailyn)
 
-2023 Fall		LIN200	Languages in the United States (Instructor: Lori Repetti)
+2024 Spring	
 
-2023 Spring 	LIN 101	Human Languages (Instructor: John Bailyn)
+LIN345	Writing Systems of the World (Instructor: Robert Hoberman)
 
-2022 Fall		LIN 200	Languages in the United States (Instructor: John Bailyn)
+2023 Fall		
 
-2022 Spring	LIN 200	Languages in the United States (Instructor: John Bailyn)
+LIN200	Languages in the United States (Instructor: Lori Repetti)
 
-2021 Fall 	LIN 200	Languages in the United States (Instructor: Andrei Antonenko)
+2023 Spring 	
 
-2021 Spring	LIN	345	Writing Systems of the World (Instructor: Robert Hoberman)
+LIN 101	Human Languages (Instructor: John Bailyn)
 
-2020 Fall		LIN 230 	Languages of the World (Instructor: Francesco Ordonez)
+2022 Fall		
 
-2020 Spring	LIN 300 	English Grammar (Instructor: Lori Repetti)
+LIN 200	Languages in the United States (Instructor: John Bailyn)
+
+2022 Spring	
+
+LIN 200	Languages in the United States (Instructor: John Bailyn)
+
+2021 Fall 	
+
+LIN 200	Languages in the United States (Instructor: Andrei Antonenko)
+
+2021 Spring	
+
+LIN	345	Writing Systems of the World (Instructor: Robert Hoberman)
+
+2020 Fall		
+
+LIN 230 	Languages of the World (Instructor: Francesco Ordonez)
+
+2020 Spring	
+
+LIN 300 	English Grammar (Instructor: Lori Repetti)
 
 ## Teaching Assistant (NYI)
 
-2023 Winter		Introduction to Formal Semantics (Instructor: Paloma Jeretič)
+2023 Winter		
 
-2023 Summer		An even number of odd puzzles in Ellipsis (Instructor: Ur Shlonsky & 					Adam Szczegielniak)
+Introduction to Formal Semantics (Instructor: Paloma Jeretič)
+
+2023 Summer		
+
+An even number of odd puzzles in Ellipsis (Instructor: Ur Shlonsky & 					Adam Szczegielniak)
 
 Introduction to Formal Semantics (Instructor: Petr Kusliy & Ekaterina 	Vostrikova)
 
-2022 Winter		Puzzles in Semantics II (Instructor: Zahra Mirrazi & Christopher Potts)
+2022 Winter		
+
+Puzzles in Semantics II (Instructor: Zahra Mirrazi & Christopher Potts)
 
 Puzzles in Semanrics I (Instructore: Rajesh Bhatt & Masha Esipova)
 
-2022 Summer		Conditionals and Tense (Instructor: Zahra Mirrazi & Heidde Zeijlstra)
+2022 Summer		
+
+Conditionals and Tense (Instructor: Zahra Mirrazi & Heidde Zeijlstra)
 
 Topics in Chinese Syntax (Instructor: Hongchen Wu)
 
