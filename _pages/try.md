@@ -1,5 +1,4 @@
 ---
-layout: about
 title: about1
 permalink: /
 subtitle: <a href='https://linguistics.stonybrook.edu'>Department of Linguistics, Stony Brook University</a>. 100 Nicolls Road, Stony Brook, NY 11794-4376.
