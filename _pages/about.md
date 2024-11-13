@@ -38,7 +38,7 @@ I approach these questions from the perspective that possessor externalization r
 
 # On-going Works
 
-\[Crosslinguistic variation in External Possession\] In some languages, external possession is accompanied with the appearance of clitics. In some languages, like Chocktaw, Salish, and Ulwa, the emerging clitics seems to be related to the possessive head in one way or the other. The study of these clitics has implications on the nature of external possession as well as far-reaching consequence in construction derivation in general.
+\[Crosslinguistic variation in External Possession\] External possession is crosslinguistically found to be accompanied with the appearance of clitics. In some languages, like Chocktaw, Salish, and Ulwa, the emerging clitics seems to be related to the possessive head in one way or the other. The study of these clitics has implications on the nature of external possession as well as far-reaching consequence in construction derivation in general.
 
 \[Phase heads in Mandarin\] Does Mandarin Chinese have determiners? What does it mean for a language to have a determiner? I relate these questions to a switch phenomenon in Mandarin Chinese where cross-phase head movement is conditionally (im)possible. These switch items becomes a focus of this study and I explore the possibility that these switches are phase heads in Mandarin.
 
