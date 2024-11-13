@@ -36,7 +36,7 @@ The empirical data that I work with is external possession constructions in Mand
 
 I approach these questions from the perspective that possessor externalization renders the predicate (dis-)possessive. I present syntactic and semantic properties to show that there is a hidden possessive head in the verbal domain, such that external possession constructions are underlyingly (dis-)possessive constructions. Consequently, the decompositinal approach to predicative possession also applies to Mandarin external possessions.
 
-# On-going Works
+# Current Projects
 
 \[Crosslinguistic variation in External Possession\] External possession is crosslinguistically found to be accompanied with the appearance of clitics. In some languages, like Chocktaw, Salish, and Ulwa, the emerging clitics seems to be related to the possessive head in one way or the other. The study of these clitics has implications on the nature of external possession, as well as far-reaching consequence in construction derivation in general.
 
