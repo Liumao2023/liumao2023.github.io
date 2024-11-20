@@ -30,9 +30,9 @@ While existing literature has forcefully shown the feasibility and necessity of 
 
 The empirical data that I work with is external possession constructions in Mandarin Chinese. While English speakers must say _John’s father died_, Mandarin speakers can also say a structure parallel to _John died father_. I try to answer the following questions:
 
-* Why does the possessor externalize?
-* How can a predicate take one more argument?
-* How are two cases assigned by an unaccusative?
+* What allows the possessor to externalize?
+* How is a predicate augmented in argument structure?
+* How are two cases assigned by one unaccusative?
 
 I approach these questions from the perspective that possessor externalization renders the predicate (dis-)possessive. I present syntactic and semantic properties to show that there is a hidden possessive head in the verbal domain, such that external possession constructions are underlyingly (dis-)possessive constructions. Consequently, the decompositinal approach to predicative possession also applies to Mandarin external possessions.
 
