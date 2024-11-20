@@ -14,11 +14,11 @@ profile:
 
 I am a Ph.D. candidate in the Department of Linguistics at Stony Brook University, expected to graduate in Spring, 2025. 
 
-Before coming to Stony Brook, I received my BA from Southwest University of Science and Technology, China, where I was advised by Professor [Congmei Chen](https://xueshu.baidu.com/scholarID/CN-BL74EO8J). I received my MA from Nanjing University where I study Pragmatics under the supervision of Professor [Xinren Chen](http://www.cxrlinguistics.com/news/html/?400.html). You can find my current [CV]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/17ZiS9c8qtqgbcGogkSmO4sSCkpBfy-nR/view?usp=sharing)) here.
+Before coming to Stony Brook, I received my MA from Nanjing University where I study Pragmatics under the supervision of Professor [Xinren Chen](http://www.cxrlinguistics.com/news/html/?400.html).  I received my BA from Southwest University of Science and Technology, China, where I was advised by Professor [Congmei Chen](https://xueshu.baidu.com/scholarID/CN-BL74EO8J). You can find my current [CV]([https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/file/d/17ZiS9c8qtqgbcGogkSmO4sSCkpBfy-nR/view?usp=sharing)) here.
 
 My research interests include Syntax, Semantics and Chinese Linguistics. I am currently working on my dissertation, titled Derived (Dis-)possessive Predicates in Mandarin Chinese, advised by Professor [Richard Larson](https://linguistics.stonybrook.edu/faculty/richard.larson/index.php). In this work, I investigate how a predicate becomes (dis-)possessive when a possessor externalizes. I offer syntactic and semantic evidence to argue that the possessive head has moved into the verbal domain, extending the proposals by Freeze (1992) and Kayne (1993, 1994). 
 
-In my non-academic life, I love playing soccer and badminton. I play soccer for over 20 years and you can find me play soccer in Sinatra Park Field, Resilliancy Park Field, and [Sofive](https://www.sofive.com/locations/meadowlands). I also love travelling and watching talent shows.
+In my non-academic life, I love playing soccer and badminton. I play soccer for over 20 years and you can find me play soccer in Sinatra Park Field, Resilliancy Park Field, and [Sofive](https://www.sofive.com/locations/meadowlands). I also love travelling and reading science news.
 
 # **Research**
 
@@ -44,6 +44,8 @@ I approach these questions from the perspective that possessor externalization r
 
 \[Late theta assignment\] In this project, I examine the consequence of having a possessive head in the verbal domain. On 
  the one hand, possessive heads do assign theta roles; on the other hadn, possessive heads are different from other heads in lacking thematic content. Having a head like this in the verbal domain entails many unstudied situations, and I relate this property to emerging theta roles which are crosslingusitically found in possessor externalization. 
+
+\[Rethinking Cartography\] This project is directly enlightened by the article [_Rethinking Cartography_](https://www.lsadc.org/Files/Language/Language%202021/97.2_04Larson.pdf) by Professor Larson, where he argues for a proset _H_ as an alternative approach to cartography. While his arguments largely rests upon theoretical grounds, I seek to find an empirical embodiment of _H_ in linguistic facts.
 
 # Publications
 
