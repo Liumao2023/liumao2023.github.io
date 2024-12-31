@@ -48,7 +48,7 @@ I approach these questions from the perspective that possessor externalization r
 
 # Publications
 
-Zhong Liumao. (under review). Raising and Selection: a Double Theme Structure in Mandarin Chinese. 
+Zhong Liumao. (under review). Raising and selection: a double theme structure in Mandarin Chinese. 
 
 Zhong Liumao. (under review). External possession of body-part expressions in Mandarin Chinese.
 
@@ -59,6 +59,8 @@ Zhong Liumao & Hong Y. 2017. The Cultural Interpretation of the Ideographic Netw
 Zhong Liumao. 2012. Reconsidering Presupposition Cancellation. Jiangsu Foreign Language Research and Teaching, 1-5.
 
 # Conference Proceedings
+
+Zhong Liumao. (under review). Unaccusatives with double themes.
 
 Zhong Liumao. (under review). Verb decomposition, evidence from post-verbal de in Mandarin Chinese.
 
