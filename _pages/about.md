@@ -38,14 +38,13 @@ I approach these questions from the perspective that possessor externalization r
 
 # Current Projects
 
-\[Crosslinguistic Variation in External Possession\] External possession is crosslinguistically found to be accompanied with the appearance of clitics. In some languages, like Chocktaw, Salish, and Ulwa, the emerging clitics seems to be related to the possessive head in one way or the other. The study of these clitics has implications on the nature of external possession, as well as far-reaching consequence in construction derivation in general.
+\[\textsc{Crosslinguistic Variation in External Possession}\] External possession is crosslinguistically found to be accompanied with the appearance of clitics. In some languages, like Chocktaw, Salish, and Ulwa, the emerging clitics seems to be related to the possessive head in one way or the other. The study of these clitics has implications on the nature of external possession, as well as far-reaching consequence in construction derivation in general.
 
-\[Phase Heads in Mandarin\] Does Mandarin Chinese have determiners? What does it mean for a language to have a determiner? I relate these questions to a switch phenomenon in Mandarin Chinese where cross-phase head movement is conditionally (im)possible. These switch items becomes an interesting window to the debate on Mandarin determiners.
+\[\textsc{Phase Heads in Mandarin}\] Does Mandarin Chinese have determiners? What does it mean for a language to have a determiner? I relate these questions to a switch phenomenon in Mandarin Chinese where cross-phase head movement is conditionally (im)possible. These switch items becomes an interesting window to the debate on Mandarin determiners.
 
-\[Late Theta Assignment\] In this project, I examine the consequence of having a possessive head in the verbal domain. On 
- the one hand, possessive heads do assign theta roles; on the other hadn, possessive heads are different from other heads in lacking thematic content. Having a head like this in the verbal domain entails many unstudied situations, and I relate this property to emerging theta roles which are crosslingusitically found in possessor externalization. 
+\[\textsc{Late Theta Assignment}\] In this project, I examine the consequence of having a possessive head in the verbal domain. On the one hand, possessive heads do assign theta roles; on the other hadn, possessive heads are different from other heads in lacking thematic content. Having a head like this in the verbal domain entails many unstudied situations, and I relate this property to emerging theta roles which are crosslingusitically found in possessor externalization. 
 
-\[Rethinking Cartography\] This project is directly enlightened by the article [_Rethinking Cartography_](https://www.lsadc.org/Files/Language/Language%202021/97.2_04Larson.pdf) by Professor Larson, where he argues for a proset _H_ as an alternative to cartography. While his arguments largely rests upon theoretical grounds, I seek to find an empirical embodiment of _H_ in linguistic facts.
+\[\textsc{Rethinking Cartography}\] This project is directly enlightened by the article [_Rethinking Cartography_](https://www.lsadc.org/Files/Language/Language%202021/97.2_04Larson.pdf) by Professor Larson, where he argues for a proset _H_ as an alternative to cartography. While his arguments largely rests upon theoretical grounds, I seek to find an empirical embodiment of _H_ in linguistic facts.
 
 # Publications
 
